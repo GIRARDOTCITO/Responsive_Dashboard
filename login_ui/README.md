@@ -27,6 +27,8 @@ al olvidar la contraseña pedira un correo al cual se enviara un email para rest
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/101753244/195445791-d483855a-61c8-4090-b235-ac31418c8c9a.png">
 
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/101753244/195445907-4c884f55-a0ac-4070-bd7f-96c6da7fdf8a.png">
+y por ultimo al dar registrar en nuestor login podremos ver que pide cada uno de los valores que se requieren para estar en nuestra base de datos
+
 
 
 
